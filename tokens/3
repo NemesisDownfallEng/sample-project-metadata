@@ -1,25 +1,12 @@
 {
-    "id": 3,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token3.webp",
-    "token_id": "3",
+    "id": 1,
+    "image": "https://nemesisdownfalleng.github.io/sample-project-metadata/tokens/ImmutableHerald.png",
+    "token_id": "1",
     "background_color": null,
     "animation_url": null,
     "youtube_url": null,
-    "name": "Test zkEVM NFT",
-    "description": "This NFT is my third Immutable zkEVM NFT",
+    "name": "Immutable Herald",
+    "description": "Strike fear into the hearts of your adversaries by blasting your way to victory with this devastating shotgun.",
     "external_url": null,
-    "attributes": [
-      {
-        "trait_type": "Hat",
-        "value": "Top Hat"
-      },
-      {
-        "trait_type": "Coat",
-        "value": "Tails"
-      },
-      {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
-      }
-    ]
+    "attributes": []
   }
